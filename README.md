@@ -29,4 +29,4 @@ Profiles.json:
 > $env:LocalAppData\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\profiles.json
 
 GIFs:
-> $env:LocalAppData\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\RoamingState\
+> $env:LocalAppData\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState\
