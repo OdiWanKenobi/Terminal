@@ -2,13 +2,13 @@
 
 ## 1. Install "Windows Terminal"
 
-Using Chocolatey, simply run: "choco install microsoft-windows-terminal -y"
+Using Chocolatey, simply run: "choco install microsoft-windows-terminal --y"
 
 Using the Microsoft Store, search for "Windows Terminal" and download.
 
 ## 2. "Run as administrator" Fix
 
-By default, Windows Terminal (Priview) runs as a UWP application, meaning it does not allow for elevation ("Run as Administrator").
+By default, Windows Terminal (Preview) runs as a UWP application, meaning it does not allow for elevation ("Run as Administrator").
 
 To bypass this limitation, follow the steps below:
 
